@@ -94,6 +94,7 @@ def main():
     #exercicio_2()
     #exercicio_3()
     #exercicio_4()
+    #exercicio4_1()
     #exercicio_4_2()
     #exercicio_5()
     #exercicio6()
